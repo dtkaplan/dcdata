@@ -5,7 +5,7 @@ Authors@R: person("Danny", "Kaplan", email = "kaplan@macalester.edu", role = c("
 Description: Provides data tables used as examples in the Data Computing book
     and exercises.
 Depends:
-    R (>= 3.3.1)
+    R (>= 3.1)
 License: MIT
 Encoding: UTF-8
 LazyData: true
